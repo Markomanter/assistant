@@ -1,2 +1,2 @@
 # assistant
-a small assistant thaprobably should inspect hi,self and become better
+a small assistant that probably should inspect himself and become better
