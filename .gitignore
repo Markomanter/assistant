@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+piper/
+*.sqlite3
+*.md
